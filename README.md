@@ -21,15 +21,15 @@ notification := notifier.NewNotification(notifier.NotificationOptions{
 ## Notification types
 We are supporting 5 types of notifications out of the box, these are:
 1. Info - ℹ️ - `notifier.Info`  
-![Info Notification](http://github.com/leads-su/notifier/-/raw/main/docs/images/info.png?inline=true)
+![Info Notification](https://raw.githubusercontent.com/leads-su/notifier/main/docs/images/info.png)
 2. Success - ✅ - `notifier.Success`  
-![Success Notification](http://github.com/leads-su/notifier/-/raw/main/docs/images/success.png?inline=true)
+![Success Notification](https://raw.githubusercontent.com/leads-su/notifier/main/docs/images/success.png)
 3. Warning - ⚠️ - `notifier.Warning`  
-![Warning Notification](http://github.com/leads-su/notifier/-/raw/main/docs/images/warning.png?inline=true)
+![Warning Notification](https://raw.githubusercontent.com/leads-su/notifier/main/docs/images/warning.png)
 4. Error - ❌ - `notifier.Error`  
-![Error Notification](http://github.com/leads-su/notifier/-/raw/main/docs/images/error.png?inline=true)
+![Error Notification](https://raw.githubusercontent.com/leads-su/notifier/main/docs/images/error.png)
 5. Unknown - ⁉️ - `notifier.Unknown`  
-![Unknown Notification](http://github.com/leads-su/notifier/-/raw/main/docs/images/unknown.png?inline=true)
+![Unknown Notification](https://raw.githubusercontent.com/leads-su/notifier/main/docs/images/unknown.png)
 
 You can use them to style your notifications.
 
