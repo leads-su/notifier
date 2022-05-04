@@ -36,7 +36,7 @@ You can use them to style your notifications.
 ## Notification with image as a header
 To create notification with the image as a header, you need to pass `Image` option to the notification.  
 This in turn will create notification which will look similar to this one  
-![Image Notification](http://github.com/leads-su/notifier/-/raw/main/docs/images/image.png?inline=true)
+![Image Notification](https://raw.githubusercontent.com/leads-su/notifier/main/docs/images/image.png)
 
 # Telegram Notifier
 To create new instance of **Telegram** notifier, you have to obtain bot token and know IDs of users you want to send notifications to.
